@@ -1,0 +1,1 @@
+This repository contains slides of my talk "Quelques pistes pour soigner ses traces d'exécution" (_Some leads to improve your logs_), as well as my sketchnotes of others talks given during SnowCamp 2023 event.
