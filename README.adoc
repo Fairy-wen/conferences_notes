@@ -1,0 +1,7 @@
+= Conference notes
+
+This repository contains my notes and slides from conferences I attended.
+
+include::Snowcamp 2023/README.adoc[]
+
+include::Agile Grenoble 2022/README.adoc[]
