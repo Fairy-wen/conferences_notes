@@ -2,6 +2,12 @@
 
 This repository contains my notes and slides from conferences I attended.
 
-include::Snowcamp 2023/README.adoc[]
+== 2023
 
-include::Agile Grenoble 2022/README.adoc[]
+xref:Le Camping des Speakers 2023/README.adoc[Le Camping des Speakers - 15 & 16 juin 2023]
+
+xref:Snowcamp 2023/README.adoc[Snowcamp - 26 & 27 janvier 2023]
+
+== 2022
+
+xref:Agile Grenoble 2022/README.adoc[Agile Grenoble - 24 & 25 novembre 2022]
