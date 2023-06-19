@@ -10,7 +10,7 @@ J'avais déjà eu l'occasion de participer au Camping des Speakers en tant que s
 Cette année, j'y participai de nouveau en tant que speaker, cette fois-ci en duo avec https://twitter.com/malvultw[Willy Malvault] pour animer un atelier sur la cryptographie de nos ancêtres, et j'ai pu encore faire de formidables rencontres et assister à des sessions très intéressantes, sur des sujets variés.
 
 Ce que j'apprécie tout particulièrement dans cette conférence en tant que speaker, c'est de pouvoir proposer des formats originaux sur des sujets pas obligatoirement en lien direct avec l'IT, et qui ne trouveraient pas forcément leur place dans des conférences plus classiques.
-En tant de spectatrice, j'apprécie de pouvoir justement découvrir de nouvelles choses, de nouveaux métier, dans un cadre unique, et d'avoir le temps d'échanger avec plein de personnes puisque tout le monde ou presque reste sur place pendant les 2 jours (voire plus !).
+En tant de spectatrice, j'apprécie de pouvoir justement découvrir de nouvelles choses, de nouveaux métiers, dans un cadre unique, et d'avoir le temps d'échanger avec plein de personnes puisque tout le monde ou presque reste sur place pendant les 2 jours (voire plus !).
 
 == Sessions du jeudi 15 juin
 
@@ -41,9 +41,9 @@ Pour aller plus loin sur le sujet, voir notamment le https://www.itspronouncedme
 
 Juste après l'intervention d'Elaine, Patrice de Saint Steban nous a proposé un rapide historique de la diffusion du savoir, depuis l'origine jusqu'à nos jours.
 Le savoir a tout d'abord été transmis exclusivement par la parole, l'écriture n'existant pas encore.
-Le principal incovénient de ce mode de transmission est que le discours se déforme au fur et à mesure des transmissions. L'utilisation de contes et légendes vient tenter de contrer la faiblesse du bouche-à-oreille.
+Le principal inconvénient de ce mode de transmission est que le discours se déforme au fur et à mesure des transmissions. L'utilisation de contes et légendes vient tenter de contrer la faiblesse du bouche-à-oreille.
 
-Viennent ensuite la tablette d'argile (ne permettant pas d'écrire beaucoup d'informations), le rouleau de parchemin (que l'on ne peut que parcourir du début à la fin), le livre (d'abord recopié à la main, puis petit à petit démocratisé grâce à l'imprimerie puis à l'expansion de la lecture dans les populations) et enfin l'information (Encarta, Wikipedia et plus récemment ChatGPT).
+Viennent ensuite la tablette d'argile (ne permettant pas d'écrire beaucoup d'informations), le rouleau de parchemin (que l'on ne peut que parcourir du début à la fin), le livre (d'abord recopié à la main, puis petit à petit démocratisé grâce à l'imprimerie puis à l'expansion de la lecture dans les populations) et enfin l'informatique (Encarta, Wikipedia et plus récemment ChatGPT).
 
 Sa conclusion, avec laquelle je suis plutôt d'accord, c'est qu'un nouvel usage ne vient pas obligatoirement remplacer les anciens : nous continuons de nous raconter des histoires oralement, nous continuons de lire des livres (papier ou sur tablette), il est fort probable qu'un outil comme ChatGPT viendra compléter l'éventail d'outils de transmission à notre portée.
 
@@ -54,7 +54,7 @@ image::./img/PXL_20230615_115457647.MP.jpg[Patrice de Saint Steban présentant s
 *https://twitter.com/ShirleyAlmCh[Shirley Almosni Chiche]* - _en intérieur avec slides_
 
 C'est un sujet difficile que celui dont vient nous parler Shirley, dans un style sans chichis, sans langue de bois, sans peur de choquer et dans un style bien à elle que j'aime beaucoup.
-Mêlant difficultés dont elle a été témoin et expériences vécues, que ce soit en tant que candidate ou recruteuse, et s'appuyant sur plusieurs sources, elle nous explique comment de manière inconsciente ou tout à fait délibérée nous pouvons nous retrouver à faire preuve de discrimation dans le monde du travail (et pas uniquement celui de l'IT).
+Mêlant difficultés dont elle a été témoin et expériences vécues, que ce soit en tant que candidate ou recruteuse, et s'appuyant sur plusieurs sources, elle nous explique comment de manière inconsciente ou tout à fait délibérée nous pouvons nous retrouver à faire preuve de discrimination dans le monde du travail (et pas uniquement celui de l'IT).
 
 Au-delà des multiples constats et remises en questions, Shirley nous laisse avec quelques pistes individuelles pour tenter d'aborder nos carrières de façon plus saine.
 
@@ -72,7 +72,7 @@ Quelques sources issues des slides :
 Pour s'adresser à nous, Noémie a dû sortir de sa zone de confort. En effet, après un souci de santé, elle s'est mise à souffrir de peur de prendre la parole en public (y compris dans le cercle privé).
 Dans une présentation parfaitement construite, elle nous raconte comment, petit à petit, elle a retrouvé la parole.
 Elle nous explique via un parallèle avec une excursion de randonnée ce que signifie "sortir de sa zone de confort", ce que cela requiert pour pouvoir le faire et qu'est-ce que cela peut nous apporter.
-Elle nous rappelle aussi qu'il est indispensable, que ce soit dans la vie personnelle ou professionelle, de dire quand on sort de notre zone de confort pour réaliser telle ou telle tâche. L'avantage est qu'en cas d'échec on nous remerciera d'avoir fait l'effort et essayé. Et en cas de réussite, la fierté d'avoir réussi n'en sera que plus grande !
+Elle nous rappelle aussi qu'il est indispensable, que ce soit dans la vie personnelle ou professionnelle, de dire quand on sort de notre zone de confort pour réaliser telle ou telle tâche. L'avantage est qu'en cas d'échec on nous remerciera d'avoir fait l'effort et essayé. Et en cas de réussite, la fierté d'avoir réussi n'en sera que plus grande !
 
 === Dessines-moi Rust 
 
@@ -86,6 +86,8 @@ J'avais déjà envie de découvrir ce langage, et je dois dire qu'après cette p
 
 Son blog https://lafor.ge/[La Forge], https://lafor.ge/rust/reference/[un de ses articles sur le drop] et également celui sur la https://lafor.ge/rust/heap_stack/[stack et la heap]. 
 
+Ses slides sont également disponibles juste ici : https://slides.com/akanoa/deck-b57dd2[Dessine-moi Rust 🦀].
+
 == Sessions du vendredi 16 juin
 
 Le vendredi matin, nous avons eu droit à une magnifique keynote surprise délivrée par Solène Lapouge.
@@ -94,7 +96,7 @@ Le vendredi matin, nous avons eu droit à une magnifique keynote surprise déliv
 
 *https://twitter.com/LapougeSolene[Solène Lapouge]*, _en intérieur avec slides_
 
-Dans sa keynote, Solène nous livre son histoire. Une histoire semée d'embuches, digne d'un roman, où le happy end se retrouve brisé en plein vol, l'obligeant à rebondir, une fois de plus, dans sa vie qui débute seulement.
+Dans sa keynote, Solène nous livre son histoire. Une histoire semée d'embûches, digne d'un roman, où le happy end se retrouve brisé en plein vol, l'obligeant à rebondir, une fois de plus, dans sa vie qui débute seulement.
 Le dernier rebondissement, c'est celui de l'an dernier, au Camping des speakers, qui lui a ouvert une nouvelle voie dans sa carrière, que je lui souhaite des plus épanouissante.
 
 === Dis papa, c'est quoi l'impression 3D ?
@@ -110,18 +112,23 @@ image::./img/PXL_20230616_085323274_exported_stabilized_1686905828978.gif[Animat
 
 *https://twitter.com/mathieupassenau[Mathieu Passenaud]* - _en extérieur sans slides, mais avec de vraies boîtes de vitesse !_
 
-Comme je l'ai dit plus haut, au camping des speakers on peut voir des sujets assez éloignés de la tech (j'avais présenté l'année dernière l'art de la fabrication du cognac).
+Comme je l'ai dit plus haut, au camping des speakers on peut voir des sujets assez éloignés de la tech (j'avais présenté l'année dernière l'art de la fabrication du Cognac).
 C'est ce que nous a proposé Mathieu, en venant nous expliquer le fonctionnement des boîtes de vitesse.
-Nous avons commencé par voir les entrailles d'une boîte manuelle, puis une boîte automatiques, avons vu les boîtes des voitures hybrides comme dans les Toyota Prius, et après nous avoir expliqué le fonctionnement d'un train épicycloidal, nous avons pu observer un prototype de boîte pilotée à variation continue avec un arduino (oui, on est donc revenu sur un peu de tech dans tout ça ^^).
+Nous avons commencé par voir les entrailles d'une boîte manuelle, puis une boîte automatiques, avons vu les boîtes des voitures hybrides comme dans les Toyota Prius, et après nous avoir expliqué le fonctionnement d'un train épicycloïdal, nous avons pu observer un prototype de boîte pilotée à variation continue avec un arduino (oui, on est donc revenu sur un peu de tech dans tout ça ^^).
 
-Je ne suis pas sûre de pouvoir restituer les explications à mon tour, mais je suis ravie d'avoir pu obserer ces engrenages !
+Je ne suis pas sûre de pouvoir restituer les explications à mon tour, mais je suis ravie d'avoir pu observer ces engrenages !
+
+Mathieu a laissé quelques liens via son compte Twitter pour aller plus loin :
+
+* https://www.youtube.com/watch?v=MsvVD0FaF28[Hybrid Planetary Gearset Trainer]
+* https://www.youtube.com/watch?v=ZmHpSyTsfm0[Fonctionnement de la boîte-pont hybride Prius (2e génération) P112 (eCVT)]
 
 === 🗣️ Zut ! J'aurais du dire ça ! 🙊 Astuces pour parler avec aisance en public 🎙️
 
 *https://twitter.com/malvaultw[Willy Malvault] & https://twitter.com/sylv_coud[Sylvain Coudert]*, - _en extérieur sans slides_
 
-La dernière session à laquelle j'ai assisté fut celle de Willy (mon comparse pour l'atelier sur la cryptographie de nos ancêtres) et Sylavin (qui m'a ouvert le micro de son podcast https://podcast.ausha.co/punkindev[PunkinDev] par 2 fois).
-Durant 45 minutes, alternant explication et mises en pratique avec les volontaires parmi le public, nous avons pu avoir quelques astuces pour nous aider à nous exprimer en public, ne serait-ce que pour un entretien d'embauche.
+La dernière session à laquelle j'ai assisté fut celle de Willy (mon comparse pour l'atelier sur la cryptographie de nos ancêtres) et Sylvain (qui m'a ouvert le micro de son podcast https://podcast.ausha.co/punkindev[PunkinDev] par 2 fois).
+Durant 45 minutes, alternant explications et mises en pratique avec les volontaires parmi le public, nous avons pu avoir quelques astuces pour nous aider à nous exprimer en public, ne serait-ce que pour un entretien d'embauche.
 Je retiens notamment :
 
 * la respiration, lente et profonde, pour faire baisser les hormones du stress
