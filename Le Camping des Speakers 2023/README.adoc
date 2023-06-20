@@ -24,6 +24,9 @@ Nous avons eu des retours très positifs, et avons apprécié nous aussi propose
 
 Vous pouvez voir quelques photos sur https://twitter.com/CampingSpeakers/status/1669278041216802817[ce post Twitter].
 
+Et notre super feedback !
+image::./img/open-feedback.png[Capture d'écran du retour open feedback.]
+
 === Le guide du voyageur LGBTQIA+ 
 
 *https://twitter.com/elainedbatista[Elaine Dias Batista]* - _en extérieur, sans slides_
