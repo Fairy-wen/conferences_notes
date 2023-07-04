@@ -1,6 +1,0 @@
-:hardbreaks-option:
-
-= Agile Grenoble 2022 - Grenoble, France
-
-Find here all of my sketchnotes.
-You can also find vidéos and slides provided by the speakers http://agile-grenoble.org/agile-grenoble-2022-supports-et-videos/[on this page].
