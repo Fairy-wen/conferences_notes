@@ -1,0 +1,5 @@
+# SnowCamp, 26 & 27 janvier 2023 - Grenoble, France
+
+You will find slides of my talk "Quelques pistes pour soigner ses traces d'exécution" (_Some leads to improve your logs_), as well as my sketchnotes of others talks I saw.  
+
+Find more content from this conference on [SnowCamp 2023's GitHub repository](https://github.com/snowcamp/snowcamp-2023-supports-sessions).
