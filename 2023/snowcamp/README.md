@@ -17,7 +17,7 @@ Intervenant :
 
 ## La cryptographique post-quantique
 
-Intervenant : Willy Malvault ([@malvaultw](https://twitter.com/malvaultw))  
+Intervenant : Willy Malvault [@malvaultw](https://twitter.com/malvaultw)  
 
 ![Sketchnote 1 sur 2](Sketchnotes/crypto_2.0_1-2.jpg)  
 ![Sketchnote 2 sur 2](Sketchnotes/crypto_2.0_2-2.jpg)
@@ -44,7 +44,7 @@ Intervenant·e·s :
 ## Platform Engineering, lorsque Kubernetes devient la clé du royaume
 
 Intervenants : 
-- Olivier Jacques  [Sur GitHub](https://ojacques.github.io/), Twitter [@ojacques2](https://twitter.com/ojacques2)  
+- Olivier Jacques  [sur GitHub](https://ojacques.github.io/), [sur Twitter](https://twitter.com/ojacques2)  
 - Laurent Gil
 
 ![Sketchnote 1 sur 2](Sketchnotes/k8s_1-2.jpg)  
@@ -64,7 +64,7 @@ Intervenants :
 
 Intervenantes : 
 - Anne-Laure de Boissieu [@AnneLaure2B](https://twitter.com/AnneLaure2B)  
-- Pauline Rambaud [[@pauinegu]](https://twitter.com/pauinegu)
+- Pauline Rambaud [@pauinegu](https://twitter.com/pauinegu)
 
 ![Sketchnote 1 sur 2](Sketchnotes/revue_code_1-2.jpg)  
 ![Sketchnote 2 sur 2](Sketchnotes/revue_code_2-2.jpg)  
