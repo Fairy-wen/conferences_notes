@@ -48,14 +48,16 @@ La musique est également dans les rues, avec une fanfare qui déambule un peu p
 Cette soirée d'ouverture se déroule donc à Jarnac, sur l'Île Madame.
 J'ai pu profiter de 3 formations différentes ce soir-là, avec des styles assez différents les uns des autres.
 
-### [The Blue-Footed Boobies](https://www.facebook.com/people/The-Blue-Footed-Boobies/100059640285850/)
+### The Blue-Footed Boobies
 
 Il s'agit d'un quatuor formé par Marko Balland (l'harmonica), Ronan One Man Band (guitare et chant), Pascal Blanc (basse) et Guillaume Dupré (batterie).
 Une formation somme toute assez courante et efficace pour du blues qui nous transporte grâce à la voix grave et rocailleuse de Ronan, on en redemande !
 
+https://www.facebook.com/people/The-Blue-Footed-Boobies/100059640285850/
+
 ![The Blue-Footed Boobies sur la scène](./img/blue_footed_boobies.jpg)
 
-### [Cisco’s Blues & Beat Box Band](https://www.facebook.com/ciscoherzhaftofficiel)
+### Cisco’s Blues & Beat Box Band
 
 Cisco Herzaft n'est pas loin d'être un des doyens de ce festival, du haut de ses 76 ans. Pour cette soirée du Blues Passions, il est entouré de [Geneviève Dartevelle](https://www.facebook.com/profile.php?id=100042338991168) à l'harmonica, [Stéphane Bihan](https://stephanebihan.fr/) à la contrebasse et [MicFlow](https://www.facebook.com/MicflowBeatbox) au beatbox.
 Un cocktail efficace, avec un super démo de beatbox par MicFlow en solo. J'étais également très heureuse de voir une femme à l'harmonica (ne nous le cachons pas, la musique blues est souvent faite par des hommes), d'autant plus que Geneviève a plusieurs cordes à son arc et joue également de la scie musicale et de la guimbarde.
@@ -63,9 +65,11 @@ Cisco quant à lui nous a raconté quelques origines du blues, et notamment du r
 
 Un concert plein de découvertes donc 😀
 
+https://www.facebook.com/ciscoherzhaftofficiel
+
 ![Cisco’s Blues & Beat Box Band sur la scène](./img/ciscos_b4.jpg)
 
-### [Michel Jonasz](https://www.micheljonasz.com/)
+### Michel Jonasz
 
 THE artiste de la soirée, c'est bien sûr Michel Jonasz (du même âge que Cisco Herzaft). J'avoue ne connaître que quelques-une de ses chansons, et me sentais un peu seule au milieu d'une foule de fans qui les connaissaient toutes par cœur, mais j'ai quand même beaucoup apprécié le spectacle !
 Sur scène, il est entouré de nombreux musiciens dont Jean-Yves d’Angelo aux claviers et Manu Katché à la batterie.
@@ -73,11 +77,33 @@ Le spectacle est à la hauteur des attentes (malgré les petites averses de plui
 
 Je suis ravie d'avoir eu l'occasion de voir ce spectacle !
 
+https://www.micheljonasz.com/
+
 ![Michel Jonasz et ses musiciens sur la scène](./img/michel_jonasz.jpg)
 
 ## Mercredi 5 juillet
 
-_[À venir]_
+### Nico Wayne Toussaint
+
+Je commence cette journée de mercredi par le _Groove au Château_ avec le concert de Nico Wayne Toussaint.  
+Né à Toulon, cet harmoniciste réputé dans le monde du blues s'est mis à la guitare depuis peu afin d'arriver à restituer la musique qu'il imagine.  
+Plein d'énergie, très souriant et sympathique, il a su mettre l'ambiance au château, tantôt en guitare-voix, guitare-harmonica voire harmonica seul.  
+
+Je retournerai le voir avec grand plaisir quand j'en aurai l'occasion !
+
+https://www.nicowaynetoussaint.com/
+
+![Nico Wayne Toussaint au Château de Cognac](./img/nico_wayne_toussaint.jpg)
+
+
+### JP Bimeni 
+
+
+La journée se poursuit avec JP Bimeni chez Martell. Du chant, des guitares, de la batterie, de l'orgue et des cuivres pour une ambiance soul et funk parfaite pour danser !  
+Je n'ai malheureusement pas suivi de très près le concert, étant accompagnée par ma fille qui n'a pas lésiné sur les chorégraphies dans la cour 💃  
+Néanmoins je sais ce que j'écouterai pour me donner la patate 👍  
+
+https://jp-bimeni.com/fr/
 
 ## Jeudi 6 juillet
 
