@@ -4,6 +4,8 @@ This repository contains my notes and slides from conferences and musical events
 
 ## 2023
 
+[[Conférence] Volcamp - 12 & 13 octobre 2023](/2023/volcamp/README.md)
+
 [[Musique] Cognac Blues Passions - 4 au 9 juillet 2023](/2023/blues_passions/README.md)
 
 [[Conférence] Le Camping des Speakers - 15 & 16 juin 2023](/2023/camping_speakers/README.md)
