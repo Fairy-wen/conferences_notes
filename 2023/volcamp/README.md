@@ -4,5 +4,5 @@ You will find slides of my talk "Quelques pistes pour soigner ses traces d'exéc
 
 ## Quelques pistes pour soigner ses traces
 
-Available [here]([Volcamp]Quelques%20pistes%20pour%20soigner%20ses%20traces.pdf).
+Slides of my talk are available [here]([Volcamp]Quelques%20pistes%20pour%20soigner%20ses%20traces.pdf).
 

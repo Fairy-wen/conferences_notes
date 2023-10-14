@@ -4,7 +4,7 @@ You will find slides of my talk "Quelques pistes pour soigner ses traces d'exéc
 
 ## Quelques pistes pour soigner ses traces
 
-Available [here](quelques_pistes_pour_soigner_ses_traces.pdf).
+Slides of my talk are available [here](quelques_pistes_pour_soigner_ses_traces.pdf).
 
 ## Keynote - Ressussitons les ordinosaures
 
