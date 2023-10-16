@@ -98,12 +98,18 @@ https://www.nicowaynetoussaint.com/
 
 ### JP Bimeni 
 
-
 La journée se poursuit avec JP Bimeni chez Martell. Du chant, des guitares, de la batterie, de l'orgue et des cuivres pour une ambiance soul et funk parfaite pour danser !  
 Je n'ai malheureusement pas suivi de très près le concert, étant accompagnée par ma fille qui n'a pas lésiné sur les chorégraphies dans la cour 💃  
 Néanmoins je sais ce que j'écouterai pour me donner la patate 👍  
 
 https://jp-bimeni.com/fr/
+
+### Vicious Steel Fuel Band
+
+Le concert précédent ayant pris fin un peu en retard, je n'ai vu que la fin de la prestation de ce groupe français assez décalé et très dynamique 🔥.  
+Je note particulièrement la tenue de scène en bleu de travail, et le capot de tracteur transformé en guitare électrique
+
+http://www.virguleprod.com/vicious-steel/
 
 ## Jeudi 6 juillet
 
