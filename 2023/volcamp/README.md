@@ -12,7 +12,7 @@ J'arrive donc sur place en tout début de soirée, et rejoins les troupes au bar
 ![Cathédrale](./img/cathedrale.jpg)  
 *La cathédrale Notre-Dame de l'Assomption*
 
-J'y retrouve avec plaisir des speakers déjà rencontrés sur d'autres conférences comme Olivier Poncet, Yannick Guern, Marie-Laure Monplot, Elaine Dias Batista, David Aparicio, Rémy Verchère entre autres.
+J'y retrouve avec plaisir des speakers déjà rencontrés sur d'autres conférences comme Olivier Poncet, Yannick Guern, Marie-Laure Momplot, Elaine Dias Batista, David Aparicio, Rémy Verchère entre autres.
 
 ## Jeudi 12 octobre
 
