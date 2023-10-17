@@ -25,7 +25,7 @@ Find here all of my sketchnotes.
 ## Rendez l'agilité aux développeur·euses
 
 ![Sketchnote 1 sur 2](Sketchnotes/rendez_agilite_aux_devs_1sur2.jpg)
-![Sketchnote 1 sur 2](Sketchnotes/rendez_agilite_aux_devs_1sur2.jpg)
+![Sketchnote 2 sur 2](Sketchnotes/rendez_agilite_aux_devs_2sur2.jpg)
 
 ## Find more...
 
