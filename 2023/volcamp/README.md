@@ -7,7 +7,7 @@ Comme souvent lors des conférences, une soirée "speakers" est prévue le mercr
 J'arrive donc sur place en tout début de soirée, et rejoins les troupes au bar "The Salvation Jane", dans le vieux Clermont à quelques pas de la cathédrale Notre-Dame de l'Assomption.  
 
 <figure>
-<img src="{{site.url}}/img/cathedrale.jpg>" alt="La cathédrale Notre-Dame de l'Assomption"/>
+<img src="https://fairy-wen.github.io/conferences_notes/2023/volcamp/img/cathedrale.jpg>" alt="La cathédrale Notre-Dame de l'Assomption"/>
 <figcaption>La cathédrale Notre-Dame de l'Assomption</figcaption>
 </figure>
 
