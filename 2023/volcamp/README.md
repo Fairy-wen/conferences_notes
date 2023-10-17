@@ -189,7 +189,8 @@ Encore une fois, tout dépend du contexte, la *silver bullet* n'existe pas !
 Ne me demandez pas pourquoi, j'ai choisi comme dernier talk à voir (de 16h45 à 17h30) celui de Christophe Breheret-Girardin qui parle de clean archigonale, ou comment allier l'architecture hexagonale à la clean architecture 🤯.  
 J'y étais vraiment en mode découverte, sans prétendre tout comprendre du sujet, mais plus pour savoir que ça existe, et garder ça dans un coin de ma tête pour l'avenir.
 
-![Talk Clean archigonale](./img/clean_archigonale.jpg)
+![Talk Clean archigonale](./img/clean_archigonale.jpg)  
+*Photo du talk sur la clean archigonale*
 
 ## Pour conclure
 
