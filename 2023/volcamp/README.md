@@ -1,5 +1,8 @@
 # Volcamp, 12 & 13 octobre 2023 - Clermont-Ferrand, France
 
+![Volcamp](./img/volcamp.jpg)
+*La sculpture Volcamp*
+
 En ce mois d'octobre 2023, me voilà partie de nouveau en tant qu'intervenante pour la conférence [Volcamp](https://www.volcamp.io/), à Clermont-Ferrand en Auvergne.  
 A cause d'éditions annulées, ou effectuées en ligne à cause du Covid, on ne sait pas bien s'il s'agit de la deuxième, troisième ou quatrième édition mais qu'importe, le plaisir de se retrouver est bel et bien là.  
 Il s'agit pour moi d'une 4ème participation à une conférence en tant qu'intervenante, et ma première venue à cette conférence en particulier. 
