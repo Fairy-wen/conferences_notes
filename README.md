@@ -1,5 +1,6 @@
-layout: post
-title: Events notes
+---
+layout: post  
+title: Events notes  
 ---
 
 This repository contains my notes and slides from conferences and musical events I attended.
