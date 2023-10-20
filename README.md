@@ -1,5 +1,7 @@
 Bienvenue sur mon blog !
 
+![Bannière](banniere.png)
+
 ---
 
 **2023**
