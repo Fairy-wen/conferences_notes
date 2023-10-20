@@ -1,6 +1,13 @@
+![Bannière](banniere.png)
+
 Bienvenue sur mon blog !
 
-![Bannière](banniere.png)
+Je m'appelle Virginie, et je vous propose de découvrir ici quelques articles de feedback à propos des conférences et autres évènements auxquels j'assiste.  
+J'y consigne également mes sketchnotes (prises de notes visuelles) réalisées sur les conférences.  
+
+Bonne lecture !
+
+Virginie
 
 ---
 
