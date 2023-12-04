@@ -13,6 +13,8 @@ Virginie
 
 **2023**
 
+[[Conférence] Agile Grenoble, 22 & 23 novembre 2023](/2023/agile/README.md)
+
 [[Conférence] Volcamp - 12 & 13 octobre 2023](/2023/volcamp/README.md)
 
 [[Musique] Cognac Blues Passions - 4 au 9 juillet 2023](/2023/blues_passions/README.md)
