@@ -13,7 +13,7 @@ Virginie
 
 **2023**
 
-[[Conférence] Agile Grenoble, 22 & 23 novembre 2023](/2023/agile/README.md)
+[[Conférence] Agile Grenoble, 22 & 23 novembre 2023](/2023/agile_grenoble/README.md)
 
 [[Conférence] Volcamp - 12 & 13 octobre 2023](/2023/volcamp/README.md)
 
