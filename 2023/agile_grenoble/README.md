@@ -51,15 +51,39 @@ Ils ont mis à disposition un workflow [juste ici](https://drive.google.com/file
 **[Catherine Pamphile](https://www.linkedin.com/in/balanceisinmotion/)**
 
 En début d'après-midi, c'est Catherine Pamphile qui nous livre une keynote très touchante au sujet de la sécurité psychologique dans les entreprises. Sujet d'autant plus marquant pour moi qui suis en plein milieu d'une restructuration d'entreprise avec licenciement économique.  
-Et comme pour beaucoup d'autres problèmes que l'on peut rencontrer dans notre vie, la clé est de (pouvoir) s'exprimer et dialoguer avec l'autre.  
+Et comme pour beaucoup d'autres problèmes que l'on peut rencontrer dans notre vie, la clé est de (pouvoir) s'exprimer et dialoguer avec l'autre...  
 
 Ses slides sont disponibles [ici](https://drive.google.com/file/d/1HB5lcLZz6-45EX59k6KqPxlbipGS_zrq/view).  
 
 ![La sécurité psychologique 1 sur 3](./img/secu_psycho_1-3.jpg)
-*La sécurité psychologique, sketchnote 1 sur 3)*
+*La sécurité psychologique, sketchnote 1 sur 3*
 
 ![La sécurité psychologique 2 sur 3](./img/secu_psycho_2-3.jpg)
-*La sécurité psychologique, sketchnote 2 sur 3)*
+*La sécurité psychologique, sketchnote 2 sur 3*
 
 ![La sécurité psychologique 3 sur 3](./img/secu_psycho_3-3.jpg)
-*La sécurité psychologique, sketchnote 3 sur 3)*
+*La sécurité psychologique, sketchnote 3 sur 3*
+
+
+### Quelle est la place des introverti·e·s dans un équipe agile ?
+
+**[Anaïs Huet](https://www.linkedin.com/in/anais-huet-scrum-master/)**
+
+Après la keynote, je suis allée voir Anaïs nous parler de son rôle de _product owner_ introvertie, et de cette image biaisée que la société veut donner aux personnalités des gens en la catégorisant forcément d'un côté (introverti) ou de l'autre (extraverti), le plus souvent en faisant entendre qu'il faut absolument être une personne extravertie pour réussir.  
+Évidemment, la réalité est plus subtile que ça, et surtout l'aspect positif de l'extraversion est en réalité très récent puisqu'il serait apparu lors de la révolution industrielle.  
+Elle nous a ensuite livré quelques astuces pour permettre aux personnes introverties/timides/n'osant pas s'exprimer, de participer autrement à des événements comme les brainstormings via par exemple l'écrit plutôt que l'oral, ou encore en laissant du temps pour absorber les informations (par exemple, un document de spécifications, une présentation) avant de commenter et poser des questions.
+J'ai eu le plaisir d'échanger longuement avec Anaïs après sa présentation, et espère la recroiser à l'avenir !  
+
+Ses slides sont disponibles [ici](https://drive.google.com/file/d/1mMozbTQXFx8qkbOuCxSphIYtELEd9k1E/view).  
+
+### Comment décider ?
+
+**[Yvan Dantec](https://www.linkedin.com/in/yvan-dantec/) et [Jérôme Froville](https://www.linkedin.com/in/froville/)**
+
+Toujours mercredi après-midi, Yvan Dantec et Jérôme Froville nous ont parlé des différentes façons de prendre des décisions, par le biais de l'aventure d'une équipe d'astronautes coupés du reste de la civilisation. J'y ai découvert les différences entre consentement, consensus, unanimité (et quand préférer un objectif plutôt qu'un autre), ainsi que différentes méthodes de décision.  
+
+![Comment décider 1 sur 2](./img/comment_decider_1-2.jpg)
+*Comment décider, sketchnote 1 sur 2*
+
+![Comment décider 2 sur 2](./img/comment_decider_2-2.jpg)
+*Comment décider, sketchnote 2 sur 2*
