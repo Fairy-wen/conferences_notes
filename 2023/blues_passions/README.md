@@ -111,13 +111,66 @@ Je note particulièrement la tenue de scène en bleu de travail, et le capot de 
 
 http://www.virguleprod.com/vicious-steel/
 
+### Placebo
+
+La tête d'affiche ce soir-là était le groupe britannique Placebo, qu'on ne présente plus.  
+Sur scène, beaucoup plus de guitares que de musiciens, et un enchaînement des titres à la seconde près. Il nous était interdit de prendre des photos durant le concert, je n'ai donc aucune image à montrer de cette prestation.  
+
+Même si j'ai apprécié entendre des morceaux que je n'avais pas écoutés depuis bien longtemps, je n'ai pas trouvé de grand intérêt à voir ce groupe en live.  
+Peu ou pas d'échanges avec le public, le chanteur Brian Molko qui change de guitare à chaque morceau sans que j'entende une franche différence, et à mon souvenir pas non plus de réorchestration des morceaux proposés...  
+Cependant dans la fosse l'ambiance chez les fans semblait au top, tant mieux pour eux !  
+
+https://www.placeboworld.co.uk/
+
 ## Jeudi 6 juillet
 
-_[À venir]_
+### William Crighton
+
+Au château, j'ai assisté au concert de William Crighton, qui jouait par ailleurs en groupe le vendredi soir au jardin public.  
+Nous étions sur un style blues calme, avec des morceaux plutôt oniriques, mais quelquefois avec trop de réverbération dans un des micros à mon goût, qui devait se mélanger à la résonance naturelle de la salle voûtée, pénalisant mon expérience. 
+En revanche j'étais bluffée par la puissance de sa voix, dont le timbre m'a rappelé un peu celui de Charlie Winston. Les mélodies et les histoires m'ont transportée, notamment sa chanson _Julienne_, dédiée à son épouse (qui d'ailleurs joue avec lui en version full band). 
+
+https://williamcrightonmusic.com.au/
+
+### Tiwayo
+
+Sur la scène du 1715 de Martell, c'est Tiwayo qui s'est produit ce soir-là, en formation à 4 (2 guitares, basse et batterie).  
+Un répertoire à la fois folk et groove, une voix qui "frotte" un peu sans être grave ni rauque, pour une très représentation très agréable.  
+
+http://tiwayo.com/
+
+### Ibeyi
+
+Lors du premier concert du soir au jardin public, j'ai écouté le duo Ibeyi formé par les sœurs jumelles Lisa-Kaindé et Naomi, françaises d'origine cubaine et dont le père était percussionniste du _Buena Vista Social Club_.  
+Une vraie découverte qui m'a profondément marquée, pour plusieurs raisons. Leur talent, leurs timbres de voix chaleureux, le générosité sur scène, leur complicité et complémentarité et j'en passe. Sans oublier bien sûr la qualité de leurs compositions et les arrangements musicaux.  
+Elles nous ont présenté un répertoire très varié, venant du plus profond des tripes, mêlant influences cubaines, R&B, Hip Hop ou encore soul. Elles m'ont complètement embarquée dans leur univers, et font partie de mes grands coups de coeur de cette édition.  
+**Foncez les découvrir sur scène, vraiment !**  
+
+https://ibeyimusic.com/
+
+### MC Solaar New Big Band Project
+
+Quand j'ai vu que le grand MC Solaar présentait ses plus grands succès entouré d'un big band, je me suis dit qu'il fallait absolument que je découvre ça.  
+Née à la fin des années 80, MC Solaar a bercé mon adolescence comme celle de mes camarades de classe de l'époque.  
+Le résultat a vraiment été à la hauteur. Les arrangements d'Issam Krimi, à l'origine de ce projet, sont magnifiques. Le flow d'MC Solaar est toujours super net, les textes n'ont pas pris une ride, les choristes exceptionnelles, et tout ça sans perdre la côté percutant, avec une interprétation de _Solaar pleure_ encore meilleure que l'original.  
+Pour dire l'ambiance, ma montre connectée a détecté un entraînement sportif durant le concert XD. 
+
+Bref, un retour 25 ans en arrière pour moi, et j'attends avec impatience la sortie d'une version album de ce show, si jamais elle est prévue un jour.  
+
+En attendant, le spectacle donné à la Philarmonie de Paris est disponible sur _arte CONCERT_ : https://www.arte.tv/fr/videos/111708-000-A/mc-solaar-symphonique-a-la-philharmonie-de-paris/  
+
+### Liz Mandeville
+
+MC Solaar avait tellement mis le feu que j'avais plein d'énergie à dépenser, j'ai donc fini la soirée en allant judicieusement écouter Liz Mandeville.  
+Je n'ai que deux mots : "Hell yeah 🤘". Liz, c'est une femme de talent, drôle, haute en couleurs, qui n'a pas sa langue dans sa poche et envoie du lourd avec son blues et rockabilly _old fashionned_ comme on aime et qui vous font danser jusqu'au bout de la nuit (y compris mon père, qui n'est habituellement pas du genre à se trémousser ^^) !  
+
+Bref, une valeur sûre, et qui assure !  
+
+https://www.lizmandeville.net/
 
 ## Vendredi 7 juillet
 
-Certainement la journée que j'attendais le plus, puisque c'est ce jour-là que se produisait Matthieu Chedid (dit -M-), que j'écoute et adore depuis de nombreuses années.
+Certainement la journée que j'attendais le plus, puisque c'est ce jour-là que se produisait Matthieu Chedid (dit -M-), que j'écoute et suis depuis de nombreuses années.
 
 _[À venir]_
 
