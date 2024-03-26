@@ -7,7 +7,7 @@ Depuis 30 ans cette année, ce festival fondé par Michel Rolland devenu inconto
 
 J'y ai découvert au fil des ans plusieurs artistes et groupes que je continue de suivre aujourd'hui, et que je vais voir avec plaisir lorsqu'ils se produisent près de chez moi.
 
-En découvrant la programmation de cette 30^ème^ édition, je n'ai pas pu résister à l'envie de prendre le pass anniversaire m'ouvrant les portes à tous les concerts ainsi qu'à quelques cadeaux, une semaine bien chargée en perspective !
+En découvrant la programmation de cette 30<sup>ème</sup> édition, je n'ai pas pu résister à l'envie de prendre le pass anniversaire m'ouvrant les portes à tous les concerts ainsi qu'à quelques cadeaux, une semaine bien chargée en perspective !
 
 Suivez-moi dans le récap de cette aventure !
 
@@ -20,7 +20,7 @@ Ce lieu accueille uniquement la soirée d'ouverture, tous les autres concerts pr
 
 ### Groove au château
 
-Du mercredi au samedi à 14h30, la salle des gardes du château de Cognac (lieu de naissance du roi François I^er^) accueille un concert en petit comité, sous les voûtes probablement dessinées par Léonard de Vinci (grand ami et protégé de François I^er^).
+Du mercredi au samedi à 14h30, la salle des gardes du château de Cognac (lieu de naissance du roi François I<sup>er</sup>) accueille un concert en petit comité, sous les voûtes probablement dessinées par Léonard de Vinci (grand ami et protégé de François I<sup>er</sup>).
 
 C'est un lieu vraiment unique et très beau, que j'ai eu l'occasion de parcourir maintes fois alors que j'y étais guide touristique.
 Autrefois lieu de vie et de réception de la royauté, il a également servi de prison lors de la guerre de 7 ans, et abrite aujourd'hui des chais de vieillissement pour les marques de cognacs Baron Otard (qui a racheté le château à l'abandon en 1795), et D'Ussé (créée en 2013).
@@ -53,7 +53,7 @@ J'ai pu profiter de 3 formations différentes ce soir-là, avec des styles assez
 Il s'agit d'un quatuor formé par Marko Balland (l'harmonica), Ronan One Man Band (guitare et chant), Pascal Blanc (basse) et Guillaume Dupré (batterie).
 Une formation somme toute assez courante et efficace pour du blues qui nous transporte grâce à la voix grave et rocailleuse de Ronan, on en redemande !
 
-https://www.facebook.com/people/The-Blue-Footed-Boobies/100059640285850/
+[https://www.facebook.com/people/The-Blue-Footed-Boobies/100059640285850/](https://www.facebook.com/people/The-Blue-Footed-Boobies/100059640285850/)
 
 ![The Blue-Footed Boobies sur la scène](./img/blue_footed_boobies.jpg)
 
@@ -65,7 +65,7 @@ Cisco quant à lui nous a raconté quelques origines du blues, et notamment du r
 
 Un concert plein de découvertes donc 😀
 
-https://www.facebook.com/ciscoherzhaftofficiel
+[https://www.facebook.com/ciscoherzhaftofficiel](https://www.facebook.com/ciscoherzhaftofficiel)
 
 ![Cisco’s Blues & Beat Box Band sur la scène](./img/ciscos_b4.jpg)
 
@@ -77,7 +77,7 @@ Le spectacle est à la hauteur des attentes (malgré les petites averses de plui
 
 Je suis ravie d'avoir eu l'occasion de voir ce spectacle !
 
-https://www.micheljonasz.com/
+[https://www.micheljonasz.com/](https://www.micheljonasz.com/)
 
 ![Michel Jonasz et ses musiciens sur la scène](./img/michel_jonasz.jpg)
 
@@ -91,7 +91,7 @@ Plein d'énergie, très souriant et sympathique, il a su mettre l'ambiance au ch
 
 Je retournerai le voir avec grand plaisir quand j'en aurai l'occasion !
 
-https://www.nicowaynetoussaint.com/
+[https://www.nicowaynetoussaint.com/](https://www.nicowaynetoussaint.com/)
 
 ![Nico Wayne Toussaint au Château de Cognac](./img/nico_wayne_toussaint.jpg)
 
@@ -102,14 +102,14 @@ La journée se poursuit avec JP Bimeni chez Martell. Du chant, des guitares, de 
 Je n'ai malheureusement pas suivi de très près le concert, étant accompagnée par ma fille qui n'a pas lésiné sur les chorégraphies dans la cour 💃  
 Néanmoins je sais ce que j'écouterai pour me donner la patate 👍  
 
-https://jp-bimeni.com/fr/
+[https://jp-bimeni.com/fr/](https://jp-bimeni.com/fr/)
 
 ### Vicious Steel Fuel Band
 
 Le concert précédent ayant pris fin un peu en retard, je n'ai vu que la fin de la prestation de ce groupe français assez décalé et très dynamique 🔥.  
 Je note particulièrement la tenue de scène en bleu de travail, et le capot de tracteur transformé en guitare électrique
 
-http://www.virguleprod.com/vicious-steel/
+[http://www.virguleprod.com/vicious-steel/](http://www.virguleprod.com/vicious-steel/)
 
 ### Placebo
 
@@ -120,7 +120,7 @@ Même si j'ai apprécié entendre des morceaux que je n'avais pas écoutés depu
 Peu ou pas d'échanges avec le public, le chanteur Brian Molko qui change de guitare à chaque morceau sans que j'entende une franche différence, et à mon souvenir pas non plus de réorchestration des morceaux proposés...  
 Cependant dans la fosse l'ambiance chez les fans semblait au top, tant mieux pour eux !  
 
-https://www.placeboworld.co.uk/
+[https://www.placeboworld.co.uk/](https://www.placeboworld.co.uk/)
 
 ## Jeudi 6 juillet
 
@@ -130,14 +130,14 @@ Au château, j'ai assisté au concert de William Crighton, qui jouait par ailleu
 Nous étions sur un style blues calme, avec des morceaux plutôt oniriques, mais quelquefois avec trop de réverbération dans un des micros à mon goût, qui devait se mélanger à la résonance naturelle de la salle voûtée, pénalisant mon expérience. 
 En revanche j'étais bluffée par la puissance de sa voix, dont le timbre m'a rappelé un peu celui de Charlie Winston. Les mélodies et les histoires m'ont transportée, notamment sa chanson _Julienne_, dédiée à son épouse (qui d'ailleurs joue avec lui en version full band). 
 
-https://williamcrightonmusic.com.au/
+[https://williamcrightonmusic.com.au/](https://williamcrightonmusic.com.au/)
 
 ### Tiwayo
 
 Sur la scène du 1715 de Martell, c'est Tiwayo qui s'est produit ce soir-là, en formation à 4 (2 guitares, basse et batterie).  
 Un répertoire à la fois folk et groove, une voix qui "frotte" un peu sans être grave ni rauque, pour une très représentation très agréable.  
 
-http://tiwayo.com/
+[http://tiwayo.com/](http://tiwayo.com/)
 
 ### Ibeyi
 
@@ -146,7 +146,7 @@ Une vraie découverte qui m'a profondément marquée, pour plusieurs raisons. Le
 Elles nous ont présenté un répertoire très varié, venant du plus profond des tripes, mêlant influences cubaines, R&B, Hip Hop ou encore soul. Elles m'ont complètement embarquée dans leur univers, et font partie de mes grands coups de coeur de cette édition.  
 **Foncez les découvrir sur scène, vraiment !**  
 
-https://ibeyimusic.com/
+[https://ibeyimusic.com/](https://ibeyimusic.com/)
 
 ### MC Solaar New Big Band Project
 
@@ -157,7 +157,7 @@ Pour dire l'ambiance, ma montre connectée a détecté un entraînement sportif 
 
 Bref, un retour 25 ans en arrière pour moi, et j'attends avec impatience la sortie d'une version album de ce show, si jamais elle est prévue un jour.  
 
-En attendant, le spectacle donné à la Philarmonie de Paris est disponible sur _arte CONCERT_ : https://www.arte.tv/fr/videos/111708-000-A/mc-solaar-symphonique-a-la-philharmonie-de-paris/  
+En attendant, le spectacle donné à la Philarmonie de Paris est disponible sur _arte CONCERT_ : [https://www.arte.tv/fr/videos/111708-000-A/mc-solaar-symphonique-a-la-philharmonie-de-paris/](https://www.arte.tv/fr/videos/111708-000-A/mc-solaar-symphonique-a-la-philharmonie-de-paris/)  
 
 ### Liz Mandeville
 
@@ -166,7 +166,7 @@ Je n'ai que deux mots : "Hell yeah 🤘". Liz, c'est une femme de talent, drôle
 
 Bref, une valeur sûre, et qui assure !  
 
-https://www.lizmandeville.net/
+[https://www.lizmandeville.net/](https://www.lizmandeville.net/)
 
 ## Vendredi 7 juillet
 
