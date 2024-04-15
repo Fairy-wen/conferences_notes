@@ -170,13 +170,64 @@ Bref, une valeur sûre, et qui assure !
 
 ## Vendredi 7 juillet
 
-Certainement la journée que j'attendais le plus, puisque c'est ce jour-là que se produisait Matthieu Chedid (dit -M-), que j'écoute et suis depuis de nombreuses années.
+Certainement la journée que j'attendais le plus, puisque c'est ce jour-là que se produisait Matthieu Chedid (dit -M-), que j'écoute et suis depuis de nombreuses années.  
 
-_[À venir]_
+Mais avant lui, je suis allée voir d'autres artistes.  
+
+### Imany
+
+Quelle expérience ! Vous l'avez peut-être entendue dans les années 2010 avec ses titres _You Will Never Know_ et _Don't Be So Shy_.  
+
+Durant ce concert au Blues Passion, elle présente son spectacle _Voodoo Cello_, un ensemble de reprises (de ses propres titres comme d'autres chansons), accompagnée par 8 violoncelles, qui ont joué debout (et sous un soleil de plomb !) durant tout le set.  
+J'ai vraiment beaucoup apprécié le spectacle, tant au niveau musical ue visuel.
+La voix chaleureuse d'Imany se mariait parfaitement avec le timbre des violoncelles, et j'ai beaucoup aimé les arrangements et son interprétation.  
+
+[https://imanymusic.com/](https://imanymusic.com/)
+
+### Electric Ladyland - _Hommage à Hendrix au féminin_
+
+Comme l'indique le titre, Electric Ladyland est un projet d'hommage au grand Jimmy Hendrix, proposé par un line-up exclusivement féminin (et ça fait du bien !):  Nina Attal (guitare), Antonella Maza (basse), Swanny Elzingre (batterie), Léa Worms (claviers), Chantel Mc Gregor (guitare), Jessie Lee (guitare) et Léna Woods (harpe électrique).  
+
+Ne connaissant quasiment pas la musique d'Hendrix, je ne saurais dire si le contrat est rempli d'un point de vue "hommage", en tous cas du point de vue performance musicale il l'était malgré quelques longueurs ressenties en raison des nombreux solos et quelques discours parfois longs qui me faisaient décrocher.  
+J'ai tout de même grandement apprécié la prestation !  
+
+[https://zamoraprod.com/fr/artistes/electric-lady-land-hendrix-au-feminin](https://zamoraprod.com/fr/artistes/electric-lady-land-hendrix-au-feminin)
+
+### -M-
+
+Pour être totalement objective <sub>(non)</sub>, les concerts de -M- sont toujours extraordinaires. 
+D'abord parce que c'est un excellent musicien, auteur, compositeur.
+Ensuite parce que les musiciens qui l'entourent sont également excellents, et que Matthieu Chedid leur laisse toujours une place au devant de la scène durant ses concerts.
+Et surtout parce qu'il sait mettre une ambiance de folie, et créer un vrai lien avec son public en venant jouer tout au bord de la scène ou encore au milieu de la foule.  
+
+J'avais déjà eu le plaisir de le voir au Blues en 2014, et je n'ai pas boudé mon plaisir en 2023 !
+Et pas seulement parce que je suis une grande amatrice de son travail, mais aussi parce que le concert proposé était vraiment génial. Je garde notamment l'interprétation de _Life On Mars_ par Gail Ann Dorsey, bassiste qui a joué de longue années aux côtés de David Bowie (mais pas que !). Et bien sûr, _La belle étoile_, éclairée uniquement avec les lumières de nos téléphones, pour un moment magique.  
+
+Vivement la prochaine fois !  
+
+[https://labo-m.net/](https://labo-m.net/)  
 
 ## Samedi 8 juillet
 
-_[À venir]_
+### Déambulation Ooz Band
+
+Lors du festival, il n'y a pas que des concerts "standard", il y a également des animations dans les bars, cafés et restaurants de la ville, ainsi que des déambulations, comme celle du brass band Ooz Band.  
+Ce samedi, ils proposaient leur animation dans la cour du château, nous permettant d'attendre l'ouverture des portes dans la joie et la bonne humeur !  
+
+[https://www.oozband.com/](https://www.oozband.com/)
+
+### Jerron Paxton
+
+Pour le groove au château du samedi, c'était au tour de Jerron Paxton de nous ravir.  
+Multi-instrumentiste de talent (piano, harmonica, banjo, violon...), il nous a proposé un blues _old-fashionned_ du début du XX<sup>ème</sup> siècle, que j'apprécie particulièrement.  
+Un vrai voyage direction la Louisiane des années 1920/1930, c'est ça aussi la magie de la musique et du festival : se laisser transporter dans le temps et l'espace, et découvrir le monde d'une autre façon. 
+
+[https://www.jerronpaxton.com/](https://www.jerronpaxton.com/)
+
+### Reste de la journée
+
+Je n'ai pas réellement assisté aux autres concerts de cette soirée, puisque les quelques spectateurs qui comme moi avaient pris un pass spécial anniversaire ont été invités à partager un verre avec Michel Rolland, le créateur du festival.  
+Le reste de la soirée j'étais accompagnée de ma fille, nous avons donc plutôt partagé un moment dansant ensemble.
 
 ## Dimanche 10 juillet
 
