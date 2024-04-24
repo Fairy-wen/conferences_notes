@@ -148,7 +148,7 @@ Elles nous ont présenté un répertoire très varié, venant du plus profond de
 
 [https://ibeyimusic.com/](https://ibeyimusic.com/)
 
-![Le duo Ibeyi en train de chanter face à face sur scène](./img/ibeyi.png)
+![Le duo Ibeyi en train de chanter face à face sur scène](./img/ibeyi.jpg)
 
 ### MC Solaar New Big Band Project
 
