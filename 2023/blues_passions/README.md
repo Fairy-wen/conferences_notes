@@ -148,6 +148,8 @@ Elles nous ont présenté un répertoire très varié, venant du plus profond de
 
 [https://ibeyimusic.com/](https://ibeyimusic.com/)
 
+![Le duo Ibeyi en train de chanter face à face sur scène](./img/ibeyi.png)
+
 ### MC Solaar New Big Band Project
 
 Quand j'ai vu que le grand MC Solaar présentait ses plus grands succès entouré d'un big band, je me suis dit qu'il fallait absolument que je découvre ça.  
@@ -159,6 +161,8 @@ Bref, un retour 25 ans en arrière pour moi, et j'attends avec impatience la sor
 
 En attendant, le spectacle donné à la Philarmonie de Paris est disponible sur _arte CONCERT_ : [https://www.arte.tv/fr/videos/111708-000-A/mc-solaar-symphonique-a-la-philharmonie-de-paris/](https://www.arte.tv/fr/videos/111708-000-A/mc-solaar-symphonique-a-la-philharmonie-de-paris/)  
 
+![MC Solaar sur scène avec les choristes et l'orchestre qui l'accompagne](./img/mc_solaar.jpg)
+
 ### Liz Mandeville
 
 MC Solaar avait tellement mis le feu que j'avais plein d'énergie à dépenser, j'ai donc fini la soirée en allant judicieusement écouter Liz Mandeville.  
@@ -167,6 +171,8 @@ Je n'ai que deux mots : "Hell yeah 🤘". Liz, c'est une femme de talent, drôle
 Bref, une valeur sûre, et qui assure !  
 
 [https://www.lizmandeville.net/](https://www.lizmandeville.net/)
+
+![Liz Mandeville sur scène avec ses musiciens](./img/liz_mandeville.jpg)
 
 ## Vendredi 7 juillet
 
@@ -184,6 +190,8 @@ La voix chaleureuse d'Imany se mariait parfaitement avec le timbre des violoncel
 
 [https://imanymusic.com/](https://imanymusic.com/)
 
+![Photo d'Imany et ses violoncellistes sur la scène](./img/imany.jpg)
+
 ### Electric Ladyland - _Hommage à Hendrix au féminin_
 
 Comme l'indique le titre, Electric Ladyland est un projet d'hommage au grand Jimmy Hendrix, proposé par un line-up exclusivement féminin (et ça fait du bien !):  Nina Attal (guitare), Antonella Maza (basse), Swanny Elzingre (batterie), Léa Worms (claviers), Chantel Mc Gregor (guitare), Jessie Lee (guitare) et Léna Woods (harpe électrique).  
@@ -192,6 +200,8 @@ Ne connaissant quasiment pas la musique d'Hendrix, je ne saurais dire si le cont
 J'ai tout de même grandement apprécié la prestation !  
 
 [https://zamoraprod.com/fr/artistes/electric-lady-land-hendrix-au-feminin](https://zamoraprod.com/fr/artistes/electric-lady-land-hendrix-au-feminin)
+
+![Le groupe Electric Ladyland sur scène](./img/electric_ladyland.jpg)
 
 ### -M-
 
@@ -206,6 +216,8 @@ Et pas seulement parce que je suis une grande amatrice de son travail, mais auss
 Vivement la prochaine fois !  
 
 [https://labo-m.net/](https://labo-m.net/)  
+![-M- et Gail Ann sur scène chantant en duo](./img/m_gail.jpg)
+![-M- en contre-jour sur scène au début de son spectacle](./img/m.jpg)
 
 ## Samedi 8 juillet
 
@@ -233,7 +245,3 @@ Le reste de la soirée j'étais accompagnée de ma fille, nous avons donc plutô
 
 Un jam géant était organisé tout au long de cette journée, ainsi que plusieurs concerts gratuits. 
 Malheureusement je devais reprendre la route et n'ai donc pas pu y participer, ni goûter le croc-en-bouche géant préparé pour l'occasion. La prochaine fois peut-être !
-
-## Les cadeaux
-
-_[À venir]_
