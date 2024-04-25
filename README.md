@@ -11,9 +11,15 @@ Virginie
 
 ---
 
+**2024**
+
+[[Conférence] MiXiT - 25 & 26 avril 2024](/2024/MiXiT/README.md)
+
+---
+
 **2023**
 
-[[Conférence] Agile Grenoble, 22 & 23 novembre 2023](/2023/agile_grenoble/README.md)
+[[Conférence] Agile Grenoble - 22 & 23 novembre 2023](/2023/agile_grenoble/README.md)
 
 [[Conférence] Volcamp - 12 & 13 octobre 2023](/2023/volcamp/README.md)
 
