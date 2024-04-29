@@ -163,6 +163,8 @@ Jeudi après-midi j'avais prévu de participer à l'atelier présenté par Cyrie
 Manque d'anticipation de ma part, l'atelier était déjà complet lorsque j'ai voulu m'installer dans la salle !  
 J'espère vraiment avoir une nouvelle occasion d'y participer, en attendant quelques slides sont disponibles [ici](https://drive.google.com/file/d/1JIo5kNFwnFYJghJPBfLwtP3vC7VVtqf9/view).  
 
+> Edit avril 2024 : j'ai pu y assister lors du [MiXiT](../../2024/MiXiT/README.md), et c'était top !
+
 ### Nous n'estimons plus et tout va bien !
 
 **[Antoine Comble](https://www.linkedin.com/in/antoine-comble-90353447/)**
