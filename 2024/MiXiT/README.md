@@ -8,7 +8,10 @@
 C'est ma première venue à MiXiT, une conférence lyonnaise dont j'avais entendu beaucoup de bien.
 MiXiT, c'est une conférence un peu à part, où l'on parle un peu de tech mais pas que, on y parle d'éthique, de société, du monde de l'entreprise -_et on y mange des crêpes !_-.  
 
-Elle se déroule sur le campus CPE (Chimie, Physique Electronique) de Lyon, à Villeurbanne, dans un bâtiment que j'ai trouvé très agréable pour l'évènement. Et au détour des stands, entre les sponsors tech "classiques", on trouve des stands d'associations qui œuvrent pour l'humain : [Le Refuge](https://le-refuge.org/), [Soutien Migrants Croix-Rousse](https://www.facebook.com/soutiensmigrantscroixrousse/?locale=fr_FR) et [Anciela](https://www.anciela.info/).  
+Elle se déroule sur le campus CPE (Chimie, Physique Electronique) de Lyon, à Villeurbanne, dans un bâtiment que j'ai trouvé très agréable pour l'évènement. Et au détour des stands, entre les sponsors tech "classiques", on trouve des stands d'associations qui œuvrent pour l'humain :  
+- [Le Refuge](https://le-refuge.org/)  
+- [Soutien Migrants Croix-Rousse](https://www.facebook.com/soutiensmigrantscroixrousse/?locale=fr_FR)  
+- [Anciela](https://www.anciela.info/)
 
 Pour aider financièrement les associations, l'organisation de MiXiT propose aux visiteurs de donner des _mixettes_ (de petits jetons symbolisant un don de 2€) aux associations.  
 Ces _mixettes_ sont financées par des sponsors qui en achètent, 2 sont distribuées à chaque visiteur lorsqu'il récupère son badge, et les autres sont à récupérer soit sur les stands sponsors, soit dans les poches d'un certain Kévin (un vrai humain caché dans la conférence, vêtu d'un t-shirt rayé rouge et blanc).  
@@ -27,7 +30,7 @@ La keynote d'ouverture donnée par Olivier nous explique comment l'industrie num
 Pour le côté histoire, la tech existe pour répondre à 3 besoins :  
 - le besoin d'information et communication des informations, par exemple avec la naissance du transport ferroviaire nécessitant de savoir quel train passe où et quand, et transporte quoi  
 - le besoin d'organisation, rendu possible grâce à la réponse au premier besoin  
-- enfin l'intelligence, qui fait le lien entre les différents types d'information 
+- enfin l'intelligence, qui fait le lien entre les différents types d'information  
 
 Les dirigeants des entreprises de pointe dans la tech cherchent incessamment les talents rares pour gagner la course, et un facteur de réussite est également de multiplier les tentatives, et ne pas s'arrêter sur un échec.  
 Mais malgré une grande diversité de profils parmi les "petites mains" de la tech (genre, origine ethnique, sexualité), force est de constater que c'est beaucoup moins le cas lorsque l'on regarde les postes hauts placés des entreprises les plus florissantes du secteur. L'effort doit donc continuer pour que contrer cet effacement de diversité dans la hiérarchie.  
@@ -36,10 +39,10 @@ Mais malgré une grande diversité de profils parmi les "petites mains" de la te
 
 ### [Atelier] Libère ta créature et embrasse tes bizarreries
 
-**[Cyrielle Eudeline](https://www.linkedin.com/in/cyrielle-eudeline-50608368/)**
-**[Maria-eliza Paez](https://www.linkedin.com/in/maria-paez/) _(qui n'a pas pu être présente)_**
+**[Cyrielle Eudeline](https://www.linkedin.com/in/cyrielle-eudeline-50608368/)**  
+**[Maria-eliza Paez](https://www.linkedin.com/in/maria-paez/)** _(qui n'a pas pu être présente)_  
 
-Après la sketchnote, je me suis empressée d'aller à l'atelier "Libère ta créature et embrasse tes bizarreries" que j'avais loupé en novembre à l'[Agile Grenoble](../../2023/agile_grenoble/README.md).
+Après la sketchnote, je me suis empressée d'aller à l'atelier "Libère ta créature et embrasse tes bizarreries" que j'avais loupé en novembre à l'[Agile Grenoble](../../2023/agile_grenoble/README.md).  
 
 L'idée de l'atelier et de nous familiariser avec quelques formes de neuro-atypie, en imaginant l'inconfort potentiel de situations professionnelles classiques.
 
@@ -94,10 +97,10 @@ Je retiens par exemple l'anecdote de l'examen médical n'ayant pu être effectu�
 
 Une autre chose dont on ne se rend pas compte dans les toutes ces interfaces d'inscription, c'est que ça peut également amener à révéler contre sa volonté le fait qu'une personne est trans (on dit également _outer_), par exemple lorsque l'on doit indiquer son identité civile, avec donc un genre et un prénom qui ne sont plus d'usage.  
 
-Notons au passage qu'il n'est pas obligatoire d'indiquer "monsieur" ou "madame" sur un document, et d'ailleurs la DGFIP ne le fait plus depuis 2022 [voir ici](https://www.lepoint.fr/societe/les-courriers-des-impots-ne-mentionneront-plus-monsieur-ni-madame-16-07-2022-2483493_23.php).  
+Notons au passage qu'il n'est pas obligatoire d'indiquer "monsieur" ou "madame" sur un document, et d'ailleurs la DGFIP ne le fait plus depuis 2022 : [voir l'article du Point ici](https://www.lepoint.fr/societe/les-courriers-des-impots-ne-mentionneront-plus-monsieur-ni-madame-16-07-2022-2483493_23.php).  
 A l'instar du remplacement des fameux "_nom de jeune fille/nom d'épouse_" qu'on délaissera au profit de "_nom de naissance/nom marital_", il est plus que temps de remplacer les _M/Mme_ par le pronom choisi par l'utilisateur·ice.  
 
-Et pour finir, un argument que je trouve extrêmement pertinent et puissant, c'est qu'en laissant de la place pour les personnes atypiques (LGBT+, neuroatypiques, en situation de handicap) dans nos produits, plus le reste de la population prendra conscience de leur existence.
+Et pour finir, un argument que je trouve extrêmement pertinent et puissant, c'est qu'en laissant de la place pour les personnes atypiques (LGBT+, neuroatypiques, en situation de handicap...) dans nos produits, le reste de la population prendra conscience de leur existence.
 
 ![La communauté trans dans nos produits numériques, sketchnote](./img/commu_trans.jpg)  
 
@@ -122,7 +125,8 @@ Durant la soirée j'ai pu profiter d'une animation son et lumière basée sur le
 
 J'ai également échangé un moment avec Antoine Louisgrand, qui en a profité pour faire mon portrait que j'ai récupéré le lendemain ❤️.  
 
-![Photo de l'intérieur de la Chapelle de la trinité, assez coloré et chaleureux, avec des tables accueillant le buffet, et des personnes tout autour.](./img/chapelle_trinite.jpg "Chapelle de la trinité")
+![Photo de l'intérieur de la Chapelle de la trinité, assez coloré et chaleureux, avec des tables accueillant le buffet, et des personnes tout autour.](./img/chapelle_trinite.jpg "Chapelle de la trinité")  
+![Photo d'Antoine Louisgrand tenant le portrait qu'il a fait de moi. Le portrait est entouré de plusieurs citations issues de notre discussion.](./img/tonio_portrait.jpg "Antoine et le portrait qu'il a dessiné")
 
 ## Vendredi 26 avril
 
