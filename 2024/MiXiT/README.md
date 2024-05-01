@@ -8,9 +8,13 @@
 C'est ma première venue à MiXiT, une conférence lyonnaise dont j'avais entendu beaucoup de bien.
 MiXiT, c'est une conférence un peu à part, où l'on parle un peu de tech mais pas que, on y parle d'éthique, de société, du monde de l'entreprise -_et on y mange des crêpes !_-.  
 
-Elle se déroule sur le campus CPE (Chimie, Physique Electronique) de Lyon, à Villeurbanne, dans un bâtiment que j'ai trouvé très agréable pour l'évènement. Et au détour des stands, entre les sponsors tech "classiques", on trouve des stands d'associations qui œuvrent pour l'humain : [Le Refuge](https://le-refuge.org/), [Soutien Migrants Croix-Rousse](https://www.facebook.com/soutiensmigrantscroixrousse/?locale=fr_FR) et [Anciela](https://www.anciela.info/). <!--citer les assos-->
+Elle se déroule sur le campus CPE (Chimie, Physique Electronique) de Lyon, à Villeurbanne, dans un bâtiment que j'ai trouvé très agréable pour l'évènement. Et au détour des stands, entre les sponsors tech "classiques", on trouve des stands d'associations qui œuvrent pour l'humain : [Le Refuge](https://le-refuge.org/), [Soutien Migrants Croix-Rousse](https://www.facebook.com/soutiensmigrantscroixrousse/?locale=fr_FR) et [Anciela](https://www.anciela.info/).  
 
-<!--parler des mixettes-->
+Pour aider financièrement les associations, l'organisation de MiXiT propose aux visiteurs de donner des _mixettes_ (de petits jetons symbolisant un don de 2€) aux associations.  
+Ces _mixettes_ sont financées par des sponsors qui en achètent, 2 sont distribuées à chaque visiteur lorsqu'il récupère son badge, et les autres sont à récupérer soit sur les stands sponsors, soit dans les poches d'un certain Kévin (un vrai humain caché dans la conférence, vêtu d'un t-shirt rayé rouge et blanc).  
+Et pour motiver tout ce monde, des cadeaux à gagner pour les plus gros donateurices 😉.
+
+Enfin, un autre élément à part, c'est la présence d'[Antoine Louisgrand](https://www.linkedin.com/in/antoine-louisgrand-1a5681178) et sa nièce [Orane Louisgrand](https://www.instagram.com/orane_louisgrand/) pour immortaliser l'évènement par leurs dessins. En tant qu'artiste également, je suis d'autant plus touchée par la démarche.
 
 ## Jeudi 25 avril
 
@@ -81,13 +85,49 @@ Le sujet me semble important et intéressant, en revanche je n'ai pas l'impressi
 
 ### La communauté trans dans les produits numériques
 
+**[Christopher De Paola](https://www.linkedin.com/in/christopherdepaola-design/)**
 
-### Réunions en non-mixité @shodo
+Pendant un format "lightning" de 20 minutes, Christopher, homme trans (donc né·e femme) est venu nous parler de l'absence de place pour les personnes trans dans les services numériques, et des impacts parfois vitaux que cela peut parfois avoir (en plus des régulières discriminations dont les personnes peuvent faire l'objet de la part des autres humains).  
+Sa présentation a été très inspirante pour moi, sur bien des aspects, et reflète parfaitement ce qu'est la conférence **MiXiT**.  
+
+Je retiens par exemple l'anecdote de l'examen médical n'ayant pu être effectué car réalisable uniquement sur les femmes, or Christopher avait déjà changé d'état civil, et donc inscrit dans le logiciel en tant qu'homme, or ledit logiciel ne proposait pas l'examen en question pour un patient homme...  
+
+Une autre chose dont on ne se rend pas compte dans les toutes ces interfaces d'inscription, c'est que ça peut également amener à révéler contre sa volonté le fait qu'une personne est trans (on dit également _outer_), par exemple lorsque l'on doit indiquer son identité civile, avec donc un genre et un prénom qui ne sont plus d'usage.  
+
+Notons au passage qu'il n'est pas obligatoire d'indiquer "monsieur" ou "madame" sur un document, et d'ailleurs la DGFIP ne le fait plus depuis 2022 [voir ici](https://www.lepoint.fr/societe/les-courriers-des-impots-ne-mentionneront-plus-monsieur-ni-madame-16-07-2022-2483493_23.php).  
+A l'instar du remplacement des fameux "_nom de jeune fille/nom d'épouse_" qu'on délaissera au profit de "_nom de naissance/nom marital_", il est plus que temps de remplacer les _M/Mme_ par le pronom choisi par l'utilisateur·ice.  
+
+Et pour finir, un argument que je trouve extrêmement pertinent et puissant, c'est qu'en laissant de la place pour les personnes atypiques (LGBT+, neuroatypiques, en situation de handicap) dans nos produits, plus le reste de la population prendra conscience de leur existence.
+
+![La communauté trans dans nos produits numériques, sketchnote](./img/commu_trans.jpg)  
+
+### Réunions en non-mixité choisie, un moteur pour féminiser sa boîte
+
+**[Laury Maurice](https://www.linkedin.com/in/laury-maurice-874758b0/)**
+
+Sur un format de 20 minutes également, Laury nous a expliqué comment au sein de Shodo était né un groupe de réflexion non-mixte ayant pour but d'apporter davantage d'égalité de genre dans l'entreprise.  
+
+Bien évidemment, tout ne s'est pas fait du jour au lendemain, mais grâce à leurs réflexions et à l'écoute des dirigeants, de nombreuses mesures ont été mises en place, et le nombre de femmes dans l'entreprise a doublé en moins d'un an !  
+
+Vous pouvez retrouver un très bon résumé directement sur le site de Shodo : [https://shodo.io/notre-lutte-pour-legalite-de-genre/](https://shodo.io/notre-lutte-pour-legalite-de-genre/).  
 
 ### Soirée à la chapelle de la trinité
 
+Outre les crêpes, s'il y a une chose à ne pas rater à MiXiT c'est la soirée !  
+Jeudi soir le rendez-vous était donné à la chapelle de la trinité, magnifique lieu pour continuer à discuter et faire des rencontres.  
+
+Seul bémol : la nourriture. Si durant la conférence la _Fine Fourchette_ avait des alternatives adaptées (et de qualité) aux différents régimes alimentaires (végétar·lien, sans lactose, sans gluten...) pour les repas du midi, ce n'était pas le cas pour la soirée où il s'agissait d'un autre traiteur, et plusieurs personnes n'ont malheureusement pas pu profiter du buffet (qui au demeurant était très bon !).
+
+Durant la soirée j'ai pu profiter d'une animation son et lumière basée sur le nombre de personnes en contact physique avec le dispositif. Plus il y a de gens, plus il y avait de pistes sonores. C'était très chouette.  
+
+J'ai également échangé un moment avec Antoine Louisgrand, qui en a profité pour faire mon portrait que j'ai récupéré le lendemain ❤️.  
+
+![Photo de l'intérieur de la Chapelle de la trinité, assez coloré et chaleureux, avec des tables accueillant le buffet, et des personnes tout autour.](./img/chapelle_trinite.jpg "Chapelle de la trinité")
+
 ## Vendredi 26 avril
 
-### Figma
+_[Bientôt disponible]_
+
+<!--### Figma-->
 
 <!--Possible d'exécuter en mode démo pour tester les interfaces créer avant de développer l'appli pour de vrai.-->
