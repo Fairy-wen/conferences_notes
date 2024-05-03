@@ -21,7 +21,7 @@ Enfin, un autre élément à part, c'est la présence d'[Antoine Louisgrand](htt
 
 ## Jeudi 25 avril
 
-### Keynote
+### Keynote : La communauté contre le système
 
 **[Olivier ALEXANDRE](https://www.linkedin.com/in/olivier-alexandre-579b5285/?originalSubdomain=fr)**
 
@@ -130,8 +130,52 @@ J'ai également échangé un moment avec Antoine Louisgrand, qui en a profité p
 
 ## Vendredi 26 avril
 
-_[Bientôt disponible]_
+_[En cours]_
 
-<!--### Figma-->
+### Keynote : Faut-il numériser ?
 
-<!--Possible d'exécuter en mode démo pour tester les interfaces créer avant de développer l'appli pour de vrai.-->
+**[Gauthier Roussilhe](https://gauthierroussilhe.com/)**
+
+Pour la keynote d'ouverture de la seconde journée, Gauthier Roussilhe (chercheur spécialisé sur les enjeux environnementaux de la numérisation) nous invite à prendre du recul sur les impacts de la numérisation de la société.  
+Et pour répondre à cette question, il nous emmène sur le terrain, en Ardèche, où il a étudié le déploiement en réel de la 4G et de la fibre, révélant quelques situations rocambolesque dignes d'un film de comédie (voire pour les plus vieux d'entre-nous d'un sketch des _Inconnus_).  
+Ajoutez à ça le fait que les pouvoirs politiques ne font pas toujours mieux que tonton Roger quand il traîne sur Facebook (à savoir brandir des articles/études sans s'assurer de son bien-fondé ou sa véracité), et on obtient la réponse fétiche de [PunkinDev](https://podcast.ausha.co/punkindev) : **_Ca dépend du contexte !_**
+
+Au-delà du côté cocasse de certains de ses propos, le message à retenir est surtout de prendre du recul, observer la situation dans son ensemble afin d'éviter tout raisonnement biaisé.  
+Un exemple très simple : le commerce en ligne. De _prime abord_ on se dit que ça évite des émissions de C0² puisqu'on utilise un réseau d'acheminement de colis déjà existant, plutôt que de se rendre en solo en magasin.  
+Oui mais n'oublions pas de prendre en compte dans l'équation :  
+- les mobilités douces  
+- les nombreux retours de colis  
+
+Gauthier nous a également parlé des pénuries d'eau à Taïwan, puisque les ressources sont acheminées vers l'industrie électronique plutôt que l'agriculture. Et là il ne suffisait pas de regarder les chiffres dans un tableur, il fallait également resituer ces chiffres géographiquement sur l'île pour comprendre la situation dans son ensemble.  
+
+En somme il s'agissait là d'une très bonne keynote, très instructive, que j'ai beaucoup appréciée.
+
+![Faut-il numériser ? Sketchnote 1 sur 3](./img/faut_il_numeriser-1_3.jpg)  
+![Faut-il numériser ? Sketchnote 2 sur 3](./img/faut_il_numeriser-2_3.jpg)  
+![Faut-il numériser ? Sketchnote 3 sur 3](./img/faut_il_numeriser-3_3.jpg)  
+
+### [Apparté] Parlons sketchnotes
+
+Le reste de la matinée, j'ai passé pas mal de temps à parler sketchnotes avec [Aurélie Vache](https://twitter.com/aurelievache).  
+Elle m'a fait essayer son iPad, car de mon côté je m'entraîne aux sketchnotes numériques sur une vieille tablette Samsung de 2014 et réfléchis à quel équipement choisir pour la remplacer.  
+Effectivement l'application Goodnotes disponible sur iOS est particulièrement pratique pour réaliser des sketchnotes, entre le "lissage" des tracés, la possibilité de créer sa bibliothèque d'objets ou encore les différents types de fond affichables sur la feuille (blanc, ligné, à points...).  
+
+En attendant de pouvoir avoir moi aussi une telle tablette, je travaille les sketchnotes numériques sur ma tablette actuelle, car les sensations ne sont pas les mêmes qu'avec du papier, des feutres et des crayons, et la façon de faire n'est pas la même.  
+Et pour se rapprocher des sensations du vrai papier et des crayons, voici 2 astuces qu'Aurélie m'a données :  
+- les films "paper feel / paper like" à poser sur l'écran, pour reproduire la sensation d'accroche du papier réel (je n'ai pas réussi à en trouver pour ma tablette, elle doit être trop vieille :sob:)  
+- les stylets adaptés, de la taille d'une crayon à peu près, plutôt que les petits stylets d'origine
+
+<!-->
+### MiXTeen
+
+### Keynote : Abou Dhabi, pôle mondial de la cybersurveillance
+
+
+### Atelier : Figma
+
+Après le repas je suis allée à l'atelier de découverte de l'outil Figma. 
+
+### Keynote : Les innovations ont-elles un genre ?
+
+<!--Possible d'exécuter en mode démo pour tester les interfaces créées avant de développer l'appli pour de vrai.-->
+<!-->
