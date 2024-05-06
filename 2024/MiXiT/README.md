@@ -154,6 +154,8 @@ En somme il s'agissait là d'une très bonne keynote, très instructive, que j'a
 ![Faut-il numériser ? Sketchnote 2 sur 3](./img/faut_il_numeriser-2_3.jpg)  
 ![Faut-il numériser ? Sketchnote 3 sur 3](./img/faut_il_numeriser-3_3.jpg)  
 
+La vidéo de la keynote : [sur Youtube](https://www.youtube.com/live/rgsI6DHJkWg?si=9y3r5qGwtyWrOejQ&t=831).  
+
 ### [Apparté] Parlons sketchnotes
 
 Le reste de la matinée, j'ai passé pas mal de temps à parler sketchnotes avec [Aurélie Vache](https://twitter.com/aurelievache).  
@@ -165,17 +167,55 @@ Et pour se rapprocher des sensations du vrai papier et des crayons, voici 2 astu
 - les films "paper feel / paper like" à poser sur l'écran, pour reproduire la sensation d'accroche du papier réel (je n'ai pas réussi à en trouver pour ma tablette, elle doit être trop vieille :sob:)  
 - les stylets adaptés, de la taille d'une crayon à peu près, plutôt que les petits stylets d'origine
 
-<!-->
 ### MiXTeen
+
+MiXiT, c'est également depuis 10 ans en 2024 le [MiXTeen](https://mixteen.org/) : une association de passionné·es qui a pour but de faire découvrir l'univers de la programmation de façon ludique aux enfants de 7 à 15 ans, principalement grâce à la programmation de petits robots.  
+Des ateliers sont organisés environ tous les 2 ou 3 mois, sur une demi-journée en général.
 
 ### Keynote : Abou Dhabi, pôle mondial de la cybersurveillance
 
+**[Eva Thiebaud](https://www.linkedin.com/in/eva-thi%C3%A9baud-700b84193/)**
+
+Pour la keynote de début d'après-midi, Eva nous a parlé de comment Abou Dhabi, membre des Emirats Arabes Unis, opère la surveillance de la population vivant sur son sol, et pourquoi.  
+Il faut savoir qu'à Abou Dhabi la majeure partie de la population est immigrée, en provenance de Chine, d'Inde, mais aussi d'Europe. De plus, les différents événements géopolitiques dans le secteur depuis les années 90 favorisent un climat plutôt tendu aux Emirats Arabes Unis.  
+Ainsi, le gouvernement surveille de près la population via à la fois une surveillance de masse et une surveillance ciblée, notamment envers les opposants politiques.  
+
+Il y a également tout un volet assez flou autour de la vente de matériel via Dubaï en zone franche, qui invite à se poser des questions sur d'éventuels objectifs cachés d'espionnage de la part de la France envers certains pays.  
+
+La conférence a été assez compliquée à suivre pour moi je dois l'avouer, mais nous a rappelé combien rien est simple en matière de politique internationale.  
+
+![La cybersurveillance d'Abou Dhabi, sketchnote 1 sur 2](./img/aboudhabi-1_2.jpg)  
+![La cybersurveillance d'Abou Dhabi, sketchnote 2 sur 2](./img/aboudhabi-2_2.jpg)  
+
+La vidéo de la keynote [sur Youtube](https://www.youtube.com/live/rgsI6DHJkWg?si=SAWtwqHfSOlG3CMy&t=17523).  
 
 ### Atelier : Figma
 
-Après le repas je suis allée à l'atelier de découverte de l'outil Figma. 
+**[Antoine Candy](https://www.linkedin.com/in/antoine-candy-2347b1105/?originalSubdomain=fr)**  
+**[Simon Mercier](https://www.linkedin.com/in/merciersimon/)**  
+
+Le reste de l'après-midi, avant la keynote de clôture, j'ai participé à un atelier afin de découvrir le logiciel Figma.  
+Il permet entre autres de réaliser et **tester** des maquettes d'interface, en prenant en compte les différents équipements disponibles (ordinateur, téléphones, montres connectées...).  
+Le gros avantage que je vois à cet outil c'est non seulement la possibilité de simuler la navigation au sein de la maquette, mais aussi l'interface avec les outils de développement front-end, et la possibilité pour les équipe de développement de corriger les maquettes si besoin.  
+Au cours de l'atelier nous n'avons fait qu'effleurer les possibilités de l'outil, mais cela permet d'avoir une idée des possibilités qu'il offre, et éventuellement de le mettre en place dans ses projets/son organisation.
 
 ### Keynote : Les innovations ont-elles un genre ?
 
-<!--Possible d'exécuter en mode démo pour tester les interfaces créées avant de développer l'appli pour de vrai.-->
-<!-->
+**[Marion Coville](https://www.linkedin.com/in/marion-moossye-coville-3b152710/)**  
+
+Beaucoup de choses se mélangent dans ma tête quand je pense à la keynote de clôture de Marion.  
+Son propos était à la fois drôle, touchant, engagé, révoltant, parfaitement inscrit dans l'événement et j'en passe.  
+On ne compte plus les fois où le "masculin" l'emporte, et pas seulement grammaticalement : un produit conçu par des hommes et qui n'est pas adapté aux femmes (coucou la ceinture de sécurité et les applications de santé sans suivi menstruel), des diagnostiques médicaux inadaptés, ou encore des produits modifiés pour le public féminin, alors que le produit initial était parfaitement mixte (les rasoirs électriques ou jetables par exemple).  
+Et encore aujourd'hui, les produits que nous concevons et développons ne sont pas forcément adaptés à l'ensemble de la population, puisque nous sommes les premiers (voire les seul·es) _beta-testeur·euses_. Or nos applications et produite vont être utilisées par des personnes éventuellement en situation de handicap, neuro-atypiques, dont la langue maternelle n'est pas le français, trans, ou pas très à l'aise avec les outils numériques. Il est donc malheureusement "facile" de contribuer de façon involontaire au manque d'inclusivité de notre industrie, si l'on n'y prend pas garde.  
+
+J'étais tellement captivée que je n'ai pas fait de sketchnotes, heureusement la vidéo de sa keynote est disponible [sur Youtube](https://www.youtube.com/live/rgsI6DHJkWg?si=S6KX4WozHoPatZom&t=27720), je vous conseille vivement de la visionner !  
+
+Retrouvez également son [interview MiXiT On Air](https://www.youtube.com/live/rgsI6DHJkWg?si=RpKb3wTSuD6NmWzC&t=21888).  
+
+## Le mot de la fin
+
+Pour moi, la conférence a tenu ses promesses : j'y ai rencontré de nouvelles personnes très chouettes, j'ai appris quelques astuces pour lutter contre l'exclusion, découvert des choses que je ne soupçonnais même pas (principalement dans les keynotes), j'ai discuté TDAH de nos enfants avec d'autres parents...  
+J'ai été séduite par la façon dont les choses sont gérées : la loterie pour avoir une chance d'obtenir son billet, le soutien aux associations via les mixettes, les vrais alternatives végé/sans gluten/sans lactose pour les repas, le rythme de la conférence.  
+J'ai trouvé cela très agréable et inspirant, j'espère revenir bientôt...
+
+Merci les orgas !
