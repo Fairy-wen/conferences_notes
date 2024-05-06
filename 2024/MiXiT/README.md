@@ -146,13 +146,13 @@ Oui mais n'oublions pas de prendre en compte dans l'équation :
 
 Gauthier nous a également parlé des pénuries d'eau à Taïwan, puisque les ressources sont acheminées vers l'industrie électronique plutôt que l'agriculture. Et là il ne suffisait pas de regarder les chiffres dans un tableur, il fallait également resituer ces chiffres géographiquement sur l'île pour comprendre la situation dans son ensemble.  
 
-En somme il s'agissait là d'une très bonne keynote, très instructive, que j'ai beaucoup appréciée.
+En somme il s'agissait là d'une très bonne keynote, très instructive, que j'ai beaucoup appréciée.  
+
+La vidéo de la keynote : [sur Youtube](https://www.youtube.com/live/rgsI6DHJkWg?si=9y3r5qGwtyWrOejQ&t=831).  
 
 ![Faut-il numériser ? Sketchnote 1 sur 3](./img/faut_il_numeriser-1_3.jpg)  
 ![Faut-il numériser ? Sketchnote 2 sur 3](./img/faut_il_numeriser-2_3.jpg)  
 ![Faut-il numériser ? Sketchnote 3 sur 3](./img/faut_il_numeriser-3_3.jpg)  
-
-La vidéo de la keynote : [sur Youtube](https://www.youtube.com/live/rgsI6DHJkWg?si=9y3r5qGwtyWrOejQ&t=831).  
 
 ### [Apparté] Parlons sketchnotes
 
@@ -182,10 +182,11 @@ Il y a également tout un volet assez flou autour de la vente de matériel via D
 
 La conférence a été assez compliquée à suivre pour moi je dois l'avouer, mais nous a rappelé combien rien est simple en matière de politique internationale.  
 
+La vidéo de la keynote [sur Youtube](https://www.youtube.com/live/rgsI6DHJkWg?si=SAWtwqHfSOlG3CMy&t=17523).  
+
 ![La cybersurveillance d'Abou Dhabi, sketchnote 1 sur 2](./img/aboudhabi-1_2.jpg)  
 ![La cybersurveillance d'Abou Dhabi, sketchnote 2 sur 2](./img/aboudhabi-2_2.jpg)  
 
-La vidéo de la keynote [sur Youtube](https://www.youtube.com/live/rgsI6DHJkWg?si=SAWtwqHfSOlG3CMy&t=17523).  
 
 ### Atelier : Figma
 
