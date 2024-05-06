@@ -130,8 +130,6 @@ J'ai également échangé un moment avec Antoine Louisgrand, qui en a profité p
 
 ## Vendredi 26 avril
 
-_[En cours]_
-
 ### Keynote : Faut-il numériser ?
 
 **[Gauthier Roussilhe](https://gauthierroussilhe.com/)**
